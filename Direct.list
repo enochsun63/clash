@@ -586,3 +586,23 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# pt
+# ob
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,ourhelp.club
+# hdhome
+DOMAIN-SUFFIX,hdhome.org
+# hh
+DOMAIN-SUFFIX,hhanclub.top
+# mt
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.cc
+# opencd
+DOMAIN-SUFFIX,open.cd
+# ttg
+DOMAIN-SUFFIX,totheglory.im
+# hdtime
+DOMAIN-SUFFIX,hdtime.org
+# btschool
+DOMAIN-SUFFIX,btschool.club
