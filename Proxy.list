@@ -120,6 +120,11 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 
+# 自定义
+DOMAIN-SUFFIX,vocalremover.org
+DOMAIN-SUFFIX,sop.org
+DOMAIN-SUFFIX,zan.sg
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
