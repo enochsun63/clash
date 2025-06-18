@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,sop.org
 DOMAIN-SUFFIX,zan.sg
 DOMAIN-SUFFIX,needaycloud.xyz
 DOMAIN-SUFFIX,zanmei.ai
+DOMAIN-SUFFIX,wdbible.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
