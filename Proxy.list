@@ -126,6 +126,9 @@ DOMAIN-SUFFIX,zan.sg
 DOMAIN-SUFFIX,needaycloud.xyz
 DOMAIN-SUFFIX,zanmei.ai
 DOMAIN-SUFFIX,wdbible.com
+DOMAIN-SUFFIX,stardock.us
+DOMAIN-SUFFIX,stardock.com
+DOMAIN-SUFFIX,stardock.net
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
