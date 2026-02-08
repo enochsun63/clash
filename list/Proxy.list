@@ -347,6 +347,16 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 
+# 自定义
+DOMAIN-SUFFIX,sop.org
+DOMAIN-SUFFIX,zan.sg
+DOMAIN-SUFFIX,needaycloud.xyz
+DOMAIN-SUFFIX,zanmei.ai
+DOMAIN-SUFFIX,wdbible.com
+DOMAIN-SUFFIX,stardock.us
+DOMAIN-SUFFIX,stardock.com
+DOMAIN-SUFFIX,stardock.net
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
