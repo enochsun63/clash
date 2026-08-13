@@ -357,6 +357,8 @@ DOMAIN-SUFFIX,stardock.us
 DOMAIN-SUFFIX,stardock.com
 DOMAIN-SUFFIX,stardock.net
 DOMAIN-SUFFIX,8w.news
+DOMAIN-SUFFIX,falcosafe.top
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
